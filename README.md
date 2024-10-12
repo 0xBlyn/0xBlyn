@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Blyn</h1>
+### <h1 align="center">Hi 👋, I'm Blyn</h1>
 <h3 align="center">A frontend developer with a keen eye for detail and a love for crafting seamless UI. I am skilled in building responsive, scalable, and maintainable web applications using cutting-edge technologies.</h3>
 
 <p align="left"> <a href="https://twitter.com/0xblyn" target="blank"><img src="https://img.shields.io/twitter/follow/0xblyn?logo=twitter&style=for-the-badge" alt="0xblyn" /></a> </p>
