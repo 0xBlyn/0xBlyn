@@ -12,8 +12,8 @@ With a keen eye for detail, I create visually stunning, user-friendly websites. 
 - **Building:** Walkers DAO
 
 ## 💼 Projects and Initiatives  
-- **Product Manager && Head of Development(<a href="https://x.com/WalkersDAO">Walkers DAO</a>)** 
+- **Product Manager && Head of Development** [Walkers DAO](https://x.com/WalkersDAO)
 - **Founder of Blyn:** BUilding brands of value
 
 ## 📈 Let's Connnect  
-- **LinkedIn:** [Anne Usang](https://www.linkedin.com/in/blossom-eze-801619321/), **Twitter:** [@annecloud](https://twitter.com/0xBlyn), **Send a Mail:** [Mail](mailto:blyneze@gmail.com)
+- **LinkedIn:** [Blossom Eze](https://www.linkedin.com/in/blossom-eze-801619321/), **Twitter:** [@0xBlyn](https://twitter.com/0xBlyn), **Send a Mail:** [Mail](mailto:blyneze@gmail.com)
